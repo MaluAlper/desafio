@@ -1,0 +1,11 @@
+C:\Users\Maria Luiza\Desktop\luiza\desafio\desafio\bin\Debug\netcoreapp3.1\desafio.exe
+C:\Users\Maria Luiza\Desktop\luiza\desafio\desafio\bin\Debug\netcoreapp3.1\desafio.deps.json
+C:\Users\Maria Luiza\Desktop\luiza\desafio\desafio\bin\Debug\netcoreapp3.1\desafio.runtimeconfig.json
+C:\Users\Maria Luiza\Desktop\luiza\desafio\desafio\bin\Debug\netcoreapp3.1\desafio.runtimeconfig.dev.json
+C:\Users\Maria Luiza\Desktop\luiza\desafio\desafio\bin\Debug\netcoreapp3.1\desafio.dll
+C:\Users\Maria Luiza\Desktop\luiza\desafio\desafio\bin\Debug\netcoreapp3.1\desafio.pdb
+C:\Users\Maria Luiza\Desktop\luiza\desafio\desafio\obj\Debug\netcoreapp3.1\desafio.csprojAssemblyReference.cache
+C:\Users\Maria Luiza\Desktop\luiza\desafio\desafio\obj\Debug\netcoreapp3.1\desafio.AssemblyInfoInputs.cache
+C:\Users\Maria Luiza\Desktop\luiza\desafio\desafio\obj\Debug\netcoreapp3.1\desafio.AssemblyInfo.cs
+C:\Users\Maria Luiza\Desktop\luiza\desafio\desafio\obj\Debug\netcoreapp3.1\desafio.dll
+C:\Users\Maria Luiza\Desktop\luiza\desafio\desafio\obj\Debug\netcoreapp3.1\desafio.pdb
